@@ -7,7 +7,7 @@ INTRODUCTION
 
 This microsite was developed to showcase golf event for client. 
 
-You can visit the working version here [synergistic](lanejm-synergistic.netlify.app)
+You can visit the working version here [synergistic](https://lanejm-synergistic.netlify.app/)
 
 To submit bug reports and/or feature suggestions, please [email](joshlane3@gmail.com) me. 
 
