@@ -1,6 +1,6 @@
 # synergistic
 
-Welcome to microsite for golf outing.
+Welcome to microsite for a golf outing.
 
 INTRODUCTION
 ------------
