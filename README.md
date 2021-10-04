@@ -5,7 +5,7 @@ Welcome to microsite for a golf outing.
 INTRODUCTION
 ------------
 
-This microsite was developed to showcase golf event for client. 
+This microsite was developed to showcase a golf event for client. 
 
 You can visit the working version here [synergistic](https://lanejm-synergistic.netlify.app/)
 
@@ -17,7 +17,7 @@ This project is primarily HTML.  You can view the code and edit it locally via L
 
 FUNCTIONALITY
 -------------
-This is an example page.  THe navigation is fully functional.  Registration form was developed via [Bootstrap](https://getbootstrap.com/). Form is not fully functional, currently, but could easily be finished to submit registrations. 
+This is an example page.  The navigation is fully functional via JavaScript.  Registration form was developed via [Bootstrap](https://getbootstrap.com/). Form is not fully functional, currently, but could easily be finished to submit registrations. 
 
 AUTHORS
 -------
